@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\С#\Lesson1\Project4\obj\Debug\4Б.csprojAssemblyReference.cache
+C:\Users\user\Desktop\С#\Lesson1\Project4\obj\Debug\4Б.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Lesson1\Project4\bin\Debug\Project4.exe.config
+C:\Users\user\Desktop\С#\Lesson1\Project4\bin\Debug\Project4.exe
+C:\Users\user\Desktop\С#\Lesson1\Project4\bin\Debug\Project4.pdb
+C:\Users\user\Desktop\С#\Lesson1\Project4\obj\Debug\Project4.exe
+C:\Users\user\Desktop\С#\Lesson1\Project4\obj\Debug\Project4.pdb

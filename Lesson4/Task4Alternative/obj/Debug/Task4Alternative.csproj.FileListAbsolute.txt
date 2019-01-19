@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\С#\Lesson4\Task4Alternative\bin\Debug\Task4Alternative.exe.config
+C:\Users\user\Desktop\С#\Lesson4\Task4Alternative\bin\Debug\Task4Alternative.exe
+C:\Users\user\Desktop\С#\Lesson4\Task4Alternative\bin\Debug\Task4Alternative.pdb
+C:\Users\user\Desktop\С#\Lesson4\Task4Alternative\obj\Debug\Task4Alternative.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Lesson4\Task4Alternative\obj\Debug\Task4Alternative.exe
+C:\Users\user\Desktop\С#\Lesson4\Task4Alternative\obj\Debug\Task4Alternative.pdb
+C:\Users\user\Desktop\С#\Lesson4\Task4Alternative\obj\Debug\Task4Alternative.csprojAssemblyReference.cache
